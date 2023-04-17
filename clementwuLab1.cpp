@@ -20,7 +20,7 @@ expression 9:            sin(LEFT_MOST_DIGIT) */
 using namespace std;
 
 int main () {
- const int my_id = 0 + 4 + 9 + 4 + 8 + 1 + 0;
+ const int my_id = 0;
  //The sum of the numbers in your College login ID.
  const int num_let = 2;
  // The number of letters in your family (last) name.
